@@ -1,2 +1,2 @@
 # jsNotifiy
-This Desktop notification Javascript API
+This is a Desktop notification Javascript API
